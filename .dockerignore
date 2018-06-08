@@ -1,0 +1,7 @@
+*.txt
+*.md
+!requirements.txt
+env
+.git
+__pycache__
+*.pyc
